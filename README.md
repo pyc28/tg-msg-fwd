@@ -42,16 +42,24 @@ Telegram Message Forwarder is a simple tool that you can use to forward messages
 **Features**
 
 Multiple sources and destinations - You can add multiple destinations for each source chat.
+
 Words filter - Messages that contain words included in the blacklist won't be forwarded.
+
 User filter - When you forward messages you can choose from which users (of the source group) you wanna forward messages.
+
 Media filter - When forwarding messages you can choose which type of media should only be forwarded.
+
 Sync messages - If the source message got edited or the source message got deleted this app will mirror that in the destination chat too.
 
 **Other Features**
 
 You'll get monthly updates for this application.
+
 This application has dark mode to make it easy to use at night times too.
-When you get this application, you'll get a CLI version too of this application. You can use it to run on servers.
+
+When you get this application, you'll get a CLI version too of this 
+
+application. You can use it to run on servers.
 
 **Development Details**
 
