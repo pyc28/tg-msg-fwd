@@ -88,4 +88,5 @@ Send me a message to make a payment and get the application.
 If you need to buy this application or If you have any other development for me to do, You can contact me using the following methods.
 
 Send me an email at - sayhi@pycoder28.anonaddy.com
+
 Send me a message on Discord - pycoder#5722
