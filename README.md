@@ -1,4 +1,4 @@
-### Telegram Messages Forwarder V6.1 - GUI Application
+### Telegram Message Forwarder V6.1 - GUI Application
 
 ------------
 
