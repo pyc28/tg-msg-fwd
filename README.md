@@ -66,8 +66,11 @@ application. You can use it to run on servers.
 **Development Details**
 
 python = 3.9.7
+
 pyside = 5.15.2.1
+
 pyqtdarktheme = 1.1.0
+
 telethon = 1.24.0
 
 ------------
