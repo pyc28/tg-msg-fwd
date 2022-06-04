@@ -1,6 +1,6 @@
 # Telegram messages forwarder
 
-This is a simple application that you can use for forward messages from various channel and groups to your group or channel. You can purchase this application from me. The price is $35.
+This is a simple application that you can use for forward messages from various channel and groups to your group or channel. You can purchase this application from me. The price is $35. Buy -> https://payhip.com/b/riwk1
 
 ------------
 
