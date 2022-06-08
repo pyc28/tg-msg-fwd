@@ -1,6 +1,6 @@
 # Telegram messages forwarder
 
-This is a application that you can use for forward messages from various channel and groups to your group or channel.
+This is an application that you can use for forward messages from various channel and groups to your group or channel.
 
 <img src="https://i.ibb.co/frFB2K2/7.png" alt="7" border="0">
 
