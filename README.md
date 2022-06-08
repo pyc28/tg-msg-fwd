@@ -6,7 +6,7 @@ This is a simple application that you can use for forward messages from various 
 
 <img src="https://i.ibb.co/frFB2K2/7.png" alt="7" border="0">
 
-More screenshots https://ibb.co/album/ns6LrD
+More screenshots - https://ibb.co/album/ns6LrD
 
 ------------
 
