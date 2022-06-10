@@ -27,7 +27,7 @@ More screenshots - https://ibb.co/album/ns6LrD
 * telethon 1.24.0
 
 ### 🛒 HOW TO BUY
-Contact me to buy this program only if you can make the payment using one of these methods. Airtm, Payeer, Payoneer, or Cryptocurrency(ERC-20) - USDT, USDC, BUSD. This application price would be $35.
+Contact me to buy this program only if you can make the payment using one of these methods. Airtm, Payeer, Payoneer, or Cryptocurrency(ERC-20) - USDT, USDC, BUSD. This application price would be $40.
 
 ### 📞 CONTACT ME
 If you have any other questions or If you have a development to do for me, feel free to send me a message.
