@@ -17,7 +17,7 @@ You can contact me to buy this program. Accepted payment methods. Airtm, Payeer
 5. If the source message got edited this app will mirror that in the destination chat too.
 6. If the source message got deleted this app will mirror that in the destination chat too.
 7. You'll get monthly updates for this application.
-8. This application has dark mode to make it easy to use at night times too.
+8. This application has dark mode make it easy to use at night times too.
 
 If you have your own specific requirements I can make the modifications according to that.
 
