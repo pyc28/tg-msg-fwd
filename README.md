@@ -28,6 +28,5 @@ If you have your own specific requirements I can make the modifications accordin
 - telethon 1.24.0
 
 ### 📞 Contact me
-* Email - pycoder28@gmail.com
 * Telegram - pycoder28
 * Discord - pycoder#5722
