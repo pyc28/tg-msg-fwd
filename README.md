@@ -7,7 +7,7 @@ More screenshots: https://ibb.co/album/ns6LrD
 This is a simple application that you can use to forward messages from various channels and groups to your group or channel.
 
 ### 🛒 How to buy
-You can contact me to buy this program. Accepted payment methods. Airtm, Payeer, Payoneer, USDT(ERC-20), USDC(ERC-20), BUSD(ERC-20). Price for this tool would be $35
+You can contact me to buy this program. Accepted payment methods: Payeer, USDT(ERC-20), USDC(ERC-20), BUSD(ERC-20). Price for this tool would be $35
 
 ### 💡 Features of the application
 1. You can add multiple destinations for each source chat.
